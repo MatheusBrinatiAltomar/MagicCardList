@@ -1,4 +1,4 @@
-namespace MagicCardInfo.Domain.Models
+namespace MagicCardInfo.Domain.ValueObjects
 {
     public class ImageURI 
     {

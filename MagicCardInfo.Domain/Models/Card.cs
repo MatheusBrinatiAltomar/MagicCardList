@@ -1,3 +1,5 @@
+using MagicCardInfo.Domain.ValueObjects;
+
 namespace MagicCardInfo.Domain.Models
 {
     public class Card 
