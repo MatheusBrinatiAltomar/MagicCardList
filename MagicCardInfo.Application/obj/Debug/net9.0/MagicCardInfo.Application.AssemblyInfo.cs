@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MagicCardInfo.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bcffe835932a1b0e22cbabfc321b97ecd5d1814")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92b492778ade64c2bbf221802ae42035cec96935")]
 [assembly: System.Reflection.AssemblyProductAttribute("MagicCardInfo.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MagicCardInfo.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
